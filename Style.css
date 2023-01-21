@@ -176,3 +176,9 @@ span{
 .testimonial_content--1 p{
     opacity: 1;
 }
+
+
+.attribution{
+    text-align: center;
+    font-size: 2rem;
+}
